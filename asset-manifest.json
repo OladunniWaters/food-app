@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/OladunniWaters/food-app/static/css/main.bee6fc4a.css",
-    "main.js": "/OladunniWaters/food-app/static/js/main.123cc397.js",
-    "index.html": "/OladunniWaters/food-app/index.html",
-    "main.bee6fc4a.css.map": "/OladunniWaters/food-app/static/css/main.bee6fc4a.css.map",
-    "main.123cc397.js.map": "/OladunniWaters/food-app/static/js/main.123cc397.js.map"
+    "main.css": "/food-app/static/css/main.bee6fc4a.css",
+    "main.js": "/food-app/static/js/main.123cc397.js",
+    "index.html": "/food-app/index.html",
+    "main.bee6fc4a.css.map": "/food-app/static/css/main.bee6fc4a.css.map",
+    "main.123cc397.js.map": "/food-app/static/js/main.123cc397.js.map"
   },
   "entrypoints": [
     "static/css/main.bee6fc4a.css",
